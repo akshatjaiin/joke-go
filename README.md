@@ -28,3 +28,5 @@ This will compile and run the program, printing a random joke to the console.
 
 
 Contributions are welcome! If you have a joke you'd like to add to the list, feel free to submit a pull request.
+### on running the code you get a random joke like:)
+![image](https://github.com/user-attachments/assets/02112301-809d-4b37-883f-eb23d7b689e2)
